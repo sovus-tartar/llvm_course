@@ -1,4 +1,4 @@
-# Game of Live
+# Game of Life
 
 ### To compile
 ```
